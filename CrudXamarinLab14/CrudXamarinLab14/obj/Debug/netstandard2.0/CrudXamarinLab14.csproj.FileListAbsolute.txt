@@ -1,0 +1,16 @@
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\bin\Debug\netstandard2.0\CrudXamarinLab14.deps.json
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\bin\Debug\netstandard2.0\CrudXamarinLab14.dll
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\CrudXamarinLab14.csprojAssemblyReference.cache
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\CrudXamarinLab14.AssemblyInfoInputs.cache
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\CrudXamarinLab14.AssemblyInfo.cs
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\View\AddPerson.xaml.g.cs
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\View\ShowPersonPage.xaml.g.cs
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\CrudXamarinLab14.csproj.CoreCompileInputs.cache
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\CrudXamarinLab14.dll
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\ref\CrudXamarinLab14.dll
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\CrudXamarinLab14.pdb
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\bin\Debug\netstandard2.0\ref\CrudXamarinLab14.dll
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\bin\Debug\netstandard2.0\CrudXamarinLab14.pdb
+D:\Xamarin\CrudXamarinLab14\CrudXamarinLab14\CrudXamarinLab14\obj\Debug\netstandard2.0\XamlC.stamp

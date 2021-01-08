@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Agregar / Actualizar Persona"
+             x:Class="CrudXamarinLab14.View.AddPerson">
+    <ContentPage.Content>
+        <StackLayout Margin="10" VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand">
+            <Entry x:Name="txtNombre" Placeholder="Ingrese Nombre" />
+            <Entry x:Name="txtFechaNacimiento" Placeholder="Ingrese Fecha de Nacimiento" />
+            <Entry x:Name="txtEstado" Placeholder="Ingrese Estado Actual "/>
+            <Button x:Name="btnSaveUpdate" Text="Guardar" Clicked="btnSaveUpdate_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
